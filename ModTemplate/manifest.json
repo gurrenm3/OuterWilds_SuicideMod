@@ -1,8 +1,8 @@
 {
   "filename": "ModTemplate.dll",
-  "author": "Raicuparta",
-  "name": "Mod Template",
-  "uniqueName": "Raicuparta.ModTemplate",
-  "version": "0.1.0",
-  "owmlVersion": "2.0.0"
+  "author": "Gurrenm3",
+  "name": "Kill On Command",
+  "uniqueName": "Gurrenm3.KillOnCommand",
+  "version": "1.0.0",
+  "owmlVersion": "2.3.0"
 }
