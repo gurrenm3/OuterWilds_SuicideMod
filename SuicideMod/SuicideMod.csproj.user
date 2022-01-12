@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ProjectFiles</ProjectView>
-    <OutputPath>C:\Users\thoma\AppData\Roaming\OuterWildsModManager\OWML\Mods\Gurrenm3.KillOnCommand</OutputPath>
+        <OutputPath>C:\Users\thoma\AppData\Roaming\OuterWildsModManager\OWML\Mods\Gurrenm3.SuicideMod</OutputPath>
   </PropertyGroup>
 </Project>
